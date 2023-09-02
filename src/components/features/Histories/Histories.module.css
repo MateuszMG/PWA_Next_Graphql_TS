@@ -1,0 +1,17 @@
+.article {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.section {
+  border-radius: 8px;
+  box-shadow: 2px 2px 8px 3px var(--primary);
+  height: 300px;
+  margin: 16px;
+  padding: 16px;
+}
+
+.scrollRef {
+  height: 50px;
+}

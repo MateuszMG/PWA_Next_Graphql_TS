@@ -1,0 +1,13 @@
+.wrapper {
+  margin: 48px 0;
+}
+
+.loader {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.spinner span {
+  background-color: var(--primary) !important;
+}

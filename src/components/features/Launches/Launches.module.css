@@ -1,0 +1,16 @@
+.sliderWrapper {
+  max-width: 1600px;
+  overflow: hidden;
+}
+
+.section {
+  border-radius: 8px;
+  box-shadow: 2px 2px 8px 3px var(--primary);
+  height: 200px;
+  margin: 12px;
+  padding: 24px;
+}
+
+.scrollRef {
+  height: 50px;
+}
